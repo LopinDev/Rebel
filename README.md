@@ -1,2 +1,2 @@
 # Rebel
-Rebel game engine
+Rebel engine
